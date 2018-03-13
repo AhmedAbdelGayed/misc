@@ -5,6 +5,9 @@ This Python function builds an item to item collaboration filering based recomme
 #Input:
 is a Pandas dataframe of users and Products/Services usage.
 
+#Output:
+For simplicity, a CSV file has a matrix of correlation values between items. 
+
 
 #Application: 
 The application of the function can be used to determine the correlation between the products/services based on customer usage. It is useful to determine how a specific product/service change can impact other products too.
